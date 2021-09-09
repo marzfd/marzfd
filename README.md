@@ -1,4 +1,4 @@
-### Hello World! I'm Marzieh 👋
+# Hello World! I'm Marzieh 👋
 
 
 - 👨🏼‍💻 I love coding and learning new things
@@ -6,3 +6,5 @@
 - 🔭 I’m currently working on machine learning and data science
 - 🌱 I’m currently learning web development
 - 💬 Ask me about anything !
+
+<img align="left" alt="Marzieh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marzfd&show_icons=true&hide_border=false&hide=prs,contribs&theme=calm"/>
