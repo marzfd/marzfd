@@ -1,18 +1,25 @@
-# Hi! I'm Marzieh 👋
-
-<br />
-
-- 🤩 I love coding and learning new things
-- 👨🏼‍💻 I'm interested in <img src="https://user-images.githubusercontent.com/87442098/142243173-7d914f29-c95f-4766-85e5-fba74543a7de.png" width="20">
-- 🔭 I’m currently working on machine learning and data science
-- 🌱 I’m currently learning web development
-- 💬 Ask me about anything !
-- ⚡ Fun fact: I'm an avid traveller ...
+# ***Hi! I'm Marzieh*** 👋
 
 <br/>
 
-<a href="https://github.com/marzfd/github-readme-stats"><img height="145" src="https://github-readme-stats.vercel.app/api?username=marzfd&show_icons=true&theme=ayu-mirage&hide_border=true&hide=prs,contribs" alt="Marzieh's github stats" /></a>
-<a href="https://github.com/marzfad/github-readme-stats"><img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marzfd&layout=compact&theme=ayu-mirage&hide_border=true" /></a>
+  <img align="right" width="250" src="https://user-images.githubusercontent.com/87442098/142252711-30f6b514-1a52-4792-8857-487de0f4ee92.png">
+
+  <ul>
+    <li>🤩 I love coding and learning new things</li>
+    <li>👨🏼‍💻 I'm interested in <img src="https://user-images.githubusercontent.com/87442098/142243173-7d914f29-c95f-4766-85e5-fba74543a7de.png" width="20"></li>
+    <li>🔭 I’m currently working on machine learning and data science</li>
+    <li>🌱 I’m currently learning web development</li>
+    <li>💬 Ask me about anything !</li>
+    <li>⚡ Fun fact: I'm an avid traveller ...</li>
+  </ul>
+
+<br/>
+<br/>
+
+<div align="center">
+  <a href="https://github.com/marzfd/github-readme-stats"><img height="160" src="https://github-readme-stats.vercel.app/api?username=marzfd&show_icons=true&theme=ayu-mirage&hide_border=true&hide=prs,contribs" alt="Marzieh's github stats" /></a>
+  <a href="https://github.com/marzfad/github-readme-stats"><img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marzfd&layout=compact&theme=ayu-mirage&hide_border=true" /></a>
+</div>
 
 <br/>
 
