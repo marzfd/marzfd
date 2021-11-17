@@ -4,15 +4,15 @@
 <br/>
 
   <img align="right" width="250" src="https://user-images.githubusercontent.com/87442098/142252711-30f6b514-1a52-4792-8857-487de0f4ee92.png">
+  
+  <p>🤩 I love coding and learning new things</p>
+  <p>👨🏼‍💻 I'm interested in <img src="https://user-images.githubusercontent.com/87442098/142243173-7d914f29-c95f-4766-85e5-fba74543a7de.png" width="20"></p>
+  <p>🔭 I’m currently working on machine learning and data science</p>
+  <p>🌱 I’m currently learning web development</p>
+  <p>💬 Ask me about anything !</p>
+  <p>⚡ Fun fact: I'm an avid traveler ...</p>
 
-  <ul>
-    <li>🤩 I love coding and learning new things</li>
-    <li>👨🏼‍💻 I'm interested in <img src="https://user-images.githubusercontent.com/87442098/142243173-7d914f29-c95f-4766-85e5-fba74543a7de.png" width="20"></li>
-    <li>🔭 I’m currently working on machine learning and data science</li>
-    <li>🌱 I’m currently learning web development</li>
-    <li>💬 Ask me about anything !</li>
-    <li>⚡ Fun fact: I'm an avid traveller ...</li>
-  </ul>
+
 
 <br/>
 <br/>
