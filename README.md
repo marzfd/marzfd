@@ -12,6 +12,7 @@
 <br/>
 
 <a href="https://github.com/marzfd/github-readme-stats"><img align="center" width="450" height="150" src="https://github-readme-stats.vercel.app/api?username=marzfd&show_icons=true&theme=ayu-mirage&hide_border=true&hide=prs,contribs" alt="Marzieh's github stats" /></a>
+
 <a href="https://github.com/marzfad/github-readme-stats"><img align="center" width="340" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marzfd&layout=compact&theme=ayu-mirage&hide_border=true" /></a>
 
 <br/>
@@ -23,8 +24,10 @@
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
   <img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png">
   <img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/nodejs/nodejs.png">
+  <img height="40" src="https://user-images.githubusercontent.com/87442098/142241151-ec43b3f2-49ed-40b4-9888-a56b262b2334.png">
+  <img height="45" src="https://user-images.githubusercontent.com/87442098/142239945-25a924a9-d9f9-4972-aa07-54d90322fced.jpg">
 </p>
+
 
 ## Connect with me:
 
