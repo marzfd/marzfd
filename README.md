@@ -1,6 +1,7 @@
 # ***Hi! I'm Marzieh*** 👋
 
 <br/>
+<br/>
 
   <img align="right" width="250" src="https://user-images.githubusercontent.com/87442098/142252711-30f6b514-1a52-4792-8857-487de0f4ee92.png">
 
@@ -15,10 +16,11 @@
 
 <br/>
 <br/>
+<br/>
 
 <div align="center">
-  <a href="https://github.com/marzfd/github-readme-stats"><img height="160" src="https://github-readme-stats.vercel.app/api?username=marzfd&show_icons=true&theme=ayu-mirage&hide_border=true&hide=prs,contribs" alt="Marzieh's github stats" /></a>
-  <a href="https://github.com/marzfad/github-readme-stats"><img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marzfd&layout=compact&theme=ayu-mirage&hide_border=true" /></a>
+  <a href="https://github.com/marzfd/github-readme-stats"><img height="140" src="https://github-readme-stats.vercel.app/api?username=marzfd&show_icons=true&theme=ayu-mirage&hide_border=true&hide=prs,contribs" alt="Marzieh's github stats" /></a>
+  <a href="https://github.com/marzfad/github-readme-stats"><img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marzfd&layout=compact&theme=ayu-mirage&hide_border=true" /></a>
 </div>
 
 <br/>
