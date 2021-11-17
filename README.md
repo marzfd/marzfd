@@ -1,8 +1,5 @@
 # ***Hi! I'm Marzieh*** 👋
 
-<br/>
-<br/>
-
   <img align="right" width="250" src="https://user-images.githubusercontent.com/87442098/142252711-30f6b514-1a52-4792-8857-487de0f4ee92.png">
   
   <p>🤩 I love coding and learning new things</p>
