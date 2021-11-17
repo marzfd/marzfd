@@ -20,12 +20,12 @@
 ## Programming Languages:
 
 <p>
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png">
-  <img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-  <img height="40" src="https://user-images.githubusercontent.com/87442098/142241151-ec43b3f2-49ed-40b4-9888-a56b262b2334.png">
-  <img height="45" src="https://user-images.githubusercontent.com/87442098/142239945-25a924a9-d9f9-4972-aa07-54d90322fced.jpg">
+  <img height="40" src="https://user-images.githubusercontent.com/87442098/142243173-7d914f29-c95f-4766-85e5-fba74543a7de.png">
+  <img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+  <img height="45" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png">
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  <img height="45" src="https://user-images.githubusercontent.com/87442098/142242147-4668ddde-dddb-4dde-a2c7-8adc52b426c2.png">
+  <img height="50" src="https://user-images.githubusercontent.com/87442098/142239945-25a924a9-d9f9-4972-aa07-54d90322fced.jpg">
 </p>
 
 
