@@ -1,15 +1,12 @@
-# ***Hi! I'm Marzieh*** 👋
-
-  <img align="right" width="250" src="https://user-images.githubusercontent.com/87442098/142252711-30f6b514-1a52-4792-8857-487de0f4ee92.png">
+# ***Hi! I'm Marzieh*** 👋   <img align="right" width="250" src="https://user-images.githubusercontent.com/87442098/142252711-30f6b514-1a52-4792-8857-487de0f4ee92.png">
   
-  <p>🤩 I love coding and learning new things</p>
-  <p>👨🏼‍💻 I'm interested in <img src="https://user-images.githubusercontent.com/87442098/142243173-7d914f29-c95f-4766-85e5-fba74543a7de.png" width="20"></p>
-  <p>🔭 I’m currently working on machine learning and data science</p>
-  <p>🌱 I’m currently learning web development</p>
-  <p>💬 Ask me about anything !</p>
-  <p>⚡ Fun fact: I'm an avid traveler ...</p>
+  - 🤩 I love coding and learning new things
+  - 👨🏼‍💻 I'm interested in <img src="https://user-images.githubusercontent.com/87442098/142243173-7d914f29-c95f-4766-85e5-fba74543a7de.png" width="20">
+  - 🔭 I’m currently working on machine learning and data science
+  - 🌱 I’m currently learning web development
+  - 💬 Ask me about anything !
+  - ⚡ Fun fact: I'm an avid traveler ...
 
-<br/>
 <br/>
 
 <div align="center">
@@ -32,7 +29,6 @@
   <img height="42" src="https://user-images.githubusercontent.com/87442098/142246406-00f36e2a-8ce7-46ba-a25e-47d422bf6474.png">
 
 </p>
-
 
 ## Connect with me:
 
